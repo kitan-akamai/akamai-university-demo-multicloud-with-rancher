@@ -39,7 +39,7 @@ This repository is a demonstration highlighting Rancher's capabilities in orches
 
 3. Provision a LKE cluster from Rancher:
 
-   **Linode node driver is built-in directly from latest Rancher version. For cluster driver, use https://github.com/linode/kontainer-engine-driver-lke/releases/download/v0.0.9/kontainer-engine-driver-lke-linux-amd64 and whitelist api.linode.com**
+   **Linode node driver is built-in directly in the latest Rancher version. For cluster driver, use https://github.com/linode/kontainer-engine-driver-lke/releases/download/v0.0.9/kontainer-engine-driver-lke-linux-amd64 and whitelist api.linode.com**
 
    <img src="docs/images/rancher-3.png" alt="Rancher Provision LKE" style="width:auto;height:auto">
 
@@ -55,7 +55,7 @@ This repository is a demonstration highlighting Rancher's capabilities in orches
 
    <img src="docs/images/rancher-6.png" alt="Rancher New Service Available" style="width:auto;height:auto">
 
-7. The next step in the cloud migration journey involves migrating the database using tools like Velero, and considering multiple available database migration strategies.
+7. The next step in the cloud migration journey involves migrating the database using tools like Velero, with multiple available database migration strategies.
 
 ## Disclaimer
 The deployment provided in this repository is minimal and intended for demonstration purposes only.
