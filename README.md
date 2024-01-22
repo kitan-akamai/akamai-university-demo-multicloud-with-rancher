@@ -33,7 +33,7 @@ This repository is a demonstration highlighting Rancher's capabilities in orches
 
    <img src="docs/images/rancher-1.png" alt="Rancher Login" style="width:auto;height:auto">
 
-2. Explore existing kubernetes cluster deployed in another cloud:
+2. Explore existing Kubernetes cluster deployed in another cloud:
 
    <img src="docs/images/rancher-2.png" alt="Rancher Imported K8S cluster" style="width:auto;height:auto">
 
