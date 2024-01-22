@@ -38,7 +38,8 @@ This repository is a demonstration highlighting Rancher's capabilities in orches
    <img src="docs/images/rancher-2.png" alt="Rancher Imported K8S cluster" style="width:auto;height:auto">
 
 3. Provision a LKE cluster from Rancher:
-   ** Linode node driver is built-in directly from latest Rancher version. For cluster driver, use https://github.com/linode/kontainer-engine-driver-lke/releases/download/v0.0.9/kontainer-engine-driver-lke-linux-amd64 and whitelist api.linode.com **
+
+   **Linode node driver is built-in directly from latest Rancher version. For cluster driver, use https://github.com/linode/kontainer-engine-driver-lke/releases/download/v0.0.9/kontainer-engine-driver-lke-linux-amd64 and whitelist api.linode.com**
 
    <img src="docs/images/rancher-3.png" alt="Rancher Provision LKE" style="width:auto;height:auto">
 
